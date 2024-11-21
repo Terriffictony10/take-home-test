@@ -1,0 +1,5 @@
+[
+	{"inputs":[],"name":"count","outputs":[{"type":"uint256"}],"stateMutability":"view","type":"function"},
+	{"inputs":[],"name":"getCount","outputs":[{"type":"uint256"}],"stateMutability":"view","type":"function"},
+	{"inputs":[{"type":"uint256"}],"name":"setCount","outputs":[],"stateMutability":"nonpayable","type":"function"}
+]
